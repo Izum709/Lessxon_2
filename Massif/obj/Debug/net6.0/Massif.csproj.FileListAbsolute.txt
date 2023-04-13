@@ -1,0 +1,15 @@
+C:\Users\izum7\OneDrive\Рабочий стол\GeekBrains\C#\C# Лекции\Lesson_2\Massif\bin\Debug\net6.0\Massif.exe
+C:\Users\izum7\OneDrive\Рабочий стол\GeekBrains\C#\C# Лекции\Lesson_2\Massif\bin\Debug\net6.0\Massif.deps.json
+C:\Users\izum7\OneDrive\Рабочий стол\GeekBrains\C#\C# Лекции\Lesson_2\Massif\bin\Debug\net6.0\Massif.runtimeconfig.json
+C:\Users\izum7\OneDrive\Рабочий стол\GeekBrains\C#\C# Лекции\Lesson_2\Massif\bin\Debug\net6.0\Massif.dll
+C:\Users\izum7\OneDrive\Рабочий стол\GeekBrains\C#\C# Лекции\Lesson_2\Massif\bin\Debug\net6.0\Massif.pdb
+C:\Users\izum7\OneDrive\Рабочий стол\GeekBrains\C#\C# Лекции\Lesson_2\Massif\obj\Debug\net6.0\Massif.csproj.AssemblyReference.cache
+C:\Users\izum7\OneDrive\Рабочий стол\GeekBrains\C#\C# Лекции\Lesson_2\Massif\obj\Debug\net6.0\Massif.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\izum7\OneDrive\Рабочий стол\GeekBrains\C#\C# Лекции\Lesson_2\Massif\obj\Debug\net6.0\Massif.AssemblyInfoInputs.cache
+C:\Users\izum7\OneDrive\Рабочий стол\GeekBrains\C#\C# Лекции\Lesson_2\Massif\obj\Debug\net6.0\Massif.AssemblyInfo.cs
+C:\Users\izum7\OneDrive\Рабочий стол\GeekBrains\C#\C# Лекции\Lesson_2\Massif\obj\Debug\net6.0\Massif.csproj.CoreCompileInputs.cache
+C:\Users\izum7\OneDrive\Рабочий стол\GeekBrains\C#\C# Лекции\Lesson_2\Massif\obj\Debug\net6.0\Massif.dll
+C:\Users\izum7\OneDrive\Рабочий стол\GeekBrains\C#\C# Лекции\Lesson_2\Massif\obj\Debug\net6.0\refint\Massif.dll
+C:\Users\izum7\OneDrive\Рабочий стол\GeekBrains\C#\C# Лекции\Lesson_2\Massif\obj\Debug\net6.0\Massif.pdb
+C:\Users\izum7\OneDrive\Рабочий стол\GeekBrains\C#\C# Лекции\Lesson_2\Massif\obj\Debug\net6.0\Massif.genruntimeconfig.cache
+C:\Users\izum7\OneDrive\Рабочий стол\GeekBrains\C#\C# Лекции\Lesson_2\Massif\obj\Debug\net6.0\ref\Massif.dll
