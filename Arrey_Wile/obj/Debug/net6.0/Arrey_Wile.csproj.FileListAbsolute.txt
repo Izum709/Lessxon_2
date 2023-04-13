@@ -1,0 +1,15 @@
+C:\Users\izum7\OneDrive\Рабочий стол\GeekBrains\C#\C# Лекции\Lesson_2\Exemple\Arrey_Wile\bin\Debug\net6.0\Arrey_Wile.exe
+C:\Users\izum7\OneDrive\Рабочий стол\GeekBrains\C#\C# Лекции\Lesson_2\Exemple\Arrey_Wile\bin\Debug\net6.0\Arrey_Wile.deps.json
+C:\Users\izum7\OneDrive\Рабочий стол\GeekBrains\C#\C# Лекции\Lesson_2\Exemple\Arrey_Wile\bin\Debug\net6.0\Arrey_Wile.runtimeconfig.json
+C:\Users\izum7\OneDrive\Рабочий стол\GeekBrains\C#\C# Лекции\Lesson_2\Exemple\Arrey_Wile\bin\Debug\net6.0\Arrey_Wile.dll
+C:\Users\izum7\OneDrive\Рабочий стол\GeekBrains\C#\C# Лекции\Lesson_2\Exemple\Arrey_Wile\bin\Debug\net6.0\Arrey_Wile.pdb
+C:\Users\izum7\OneDrive\Рабочий стол\GeekBrains\C#\C# Лекции\Lesson_2\Exemple\Arrey_Wile\obj\Debug\net6.0\Arrey_Wile.csproj.AssemblyReference.cache
+C:\Users\izum7\OneDrive\Рабочий стол\GeekBrains\C#\C# Лекции\Lesson_2\Exemple\Arrey_Wile\obj\Debug\net6.0\Arrey_Wile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\izum7\OneDrive\Рабочий стол\GeekBrains\C#\C# Лекции\Lesson_2\Exemple\Arrey_Wile\obj\Debug\net6.0\Arrey_Wile.AssemblyInfoInputs.cache
+C:\Users\izum7\OneDrive\Рабочий стол\GeekBrains\C#\C# Лекции\Lesson_2\Exemple\Arrey_Wile\obj\Debug\net6.0\Arrey_Wile.AssemblyInfo.cs
+C:\Users\izum7\OneDrive\Рабочий стол\GeekBrains\C#\C# Лекции\Lesson_2\Exemple\Arrey_Wile\obj\Debug\net6.0\Arrey_Wile.csproj.CoreCompileInputs.cache
+C:\Users\izum7\OneDrive\Рабочий стол\GeekBrains\C#\C# Лекции\Lesson_2\Exemple\Arrey_Wile\obj\Debug\net6.0\Arrey_Wile.dll
+C:\Users\izum7\OneDrive\Рабочий стол\GeekBrains\C#\C# Лекции\Lesson_2\Exemple\Arrey_Wile\obj\Debug\net6.0\refint\Arrey_Wile.dll
+C:\Users\izum7\OneDrive\Рабочий стол\GeekBrains\C#\C# Лекции\Lesson_2\Exemple\Arrey_Wile\obj\Debug\net6.0\Arrey_Wile.pdb
+C:\Users\izum7\OneDrive\Рабочий стол\GeekBrains\C#\C# Лекции\Lesson_2\Exemple\Arrey_Wile\obj\Debug\net6.0\Arrey_Wile.genruntimeconfig.cache
+C:\Users\izum7\OneDrive\Рабочий стол\GeekBrains\C#\C# Лекции\Lesson_2\Exemple\Arrey_Wile\obj\Debug\net6.0\ref\Arrey_Wile.dll
