@@ -1,0 +1,15 @@
+C:\Users\izum7\OneDrive\Рабочий стол\GeekBrains\C#\C# Лекции\Lesson_2\Exemple\Arrey\obj\Debug\net6.0\Arrey.csproj.AssemblyReference.cache
+C:\Users\izum7\OneDrive\Рабочий стол\GeekBrains\C#\C# Лекции\Lesson_2\Exemple\Arrey\obj\Debug\net6.0\Arrey.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\izum7\OneDrive\Рабочий стол\GeekBrains\C#\C# Лекции\Lesson_2\Exemple\Arrey\obj\Debug\net6.0\Arrey.AssemblyInfoInputs.cache
+C:\Users\izum7\OneDrive\Рабочий стол\GeekBrains\C#\C# Лекции\Lesson_2\Exemple\Arrey\obj\Debug\net6.0\Arrey.AssemblyInfo.cs
+C:\Users\izum7\OneDrive\Рабочий стол\GeekBrains\C#\C# Лекции\Lesson_2\Exemple\Arrey\obj\Debug\net6.0\Arrey.csproj.CoreCompileInputs.cache
+C:\Users\izum7\OneDrive\Рабочий стол\GeekBrains\C#\C# Лекции\Lesson_2\Exemple\Arrey\bin\Debug\net6.0\Arrey.exe
+C:\Users\izum7\OneDrive\Рабочий стол\GeekBrains\C#\C# Лекции\Lesson_2\Exemple\Arrey\bin\Debug\net6.0\Arrey.deps.json
+C:\Users\izum7\OneDrive\Рабочий стол\GeekBrains\C#\C# Лекции\Lesson_2\Exemple\Arrey\bin\Debug\net6.0\Arrey.runtimeconfig.json
+C:\Users\izum7\OneDrive\Рабочий стол\GeekBrains\C#\C# Лекции\Lesson_2\Exemple\Arrey\bin\Debug\net6.0\Arrey.dll
+C:\Users\izum7\OneDrive\Рабочий стол\GeekBrains\C#\C# Лекции\Lesson_2\Exemple\Arrey\bin\Debug\net6.0\Arrey.pdb
+C:\Users\izum7\OneDrive\Рабочий стол\GeekBrains\C#\C# Лекции\Lesson_2\Exemple\Arrey\obj\Debug\net6.0\Arrey.dll
+C:\Users\izum7\OneDrive\Рабочий стол\GeekBrains\C#\C# Лекции\Lesson_2\Exemple\Arrey\obj\Debug\net6.0\refint\Arrey.dll
+C:\Users\izum7\OneDrive\Рабочий стол\GeekBrains\C#\C# Лекции\Lesson_2\Exemple\Arrey\obj\Debug\net6.0\Arrey.pdb
+C:\Users\izum7\OneDrive\Рабочий стол\GeekBrains\C#\C# Лекции\Lesson_2\Exemple\Arrey\obj\Debug\net6.0\Arrey.genruntimeconfig.cache
+C:\Users\izum7\OneDrive\Рабочий стол\GeekBrains\C#\C# Лекции\Lesson_2\Exemple\Arrey\obj\Debug\net6.0\ref\Arrey.dll
