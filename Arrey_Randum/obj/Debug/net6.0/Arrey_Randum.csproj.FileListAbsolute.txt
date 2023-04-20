@@ -1,0 +1,15 @@
+C:\Users\izum7\OneDrive\Рабочий стол\GeekBrains\C#\C# Лекции\Lesson_2\Exemple\Arrey_Randum\obj\Debug\net6.0\Arrey_Randum.csproj.AssemblyReference.cache
+C:\Users\izum7\OneDrive\Рабочий стол\GeekBrains\C#\C# Лекции\Lesson_2\Exemple\Arrey_Randum\obj\Debug\net6.0\Arrey_Randum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\izum7\OneDrive\Рабочий стол\GeekBrains\C#\C# Лекции\Lesson_2\Exemple\Arrey_Randum\obj\Debug\net6.0\Arrey_Randum.AssemblyInfoInputs.cache
+C:\Users\izum7\OneDrive\Рабочий стол\GeekBrains\C#\C# Лекции\Lesson_2\Exemple\Arrey_Randum\obj\Debug\net6.0\Arrey_Randum.AssemblyInfo.cs
+C:\Users\izum7\OneDrive\Рабочий стол\GeekBrains\C#\C# Лекции\Lesson_2\Exemple\Arrey_Randum\obj\Debug\net6.0\Arrey_Randum.csproj.CoreCompileInputs.cache
+C:\Users\izum7\OneDrive\Рабочий стол\GeekBrains\C#\C# Лекции\Lesson_2\Exemple\Arrey_Randum\bin\Debug\net6.0\Arrey_Randum.exe
+C:\Users\izum7\OneDrive\Рабочий стол\GeekBrains\C#\C# Лекции\Lesson_2\Exemple\Arrey_Randum\bin\Debug\net6.0\Arrey_Randum.deps.json
+C:\Users\izum7\OneDrive\Рабочий стол\GeekBrains\C#\C# Лекции\Lesson_2\Exemple\Arrey_Randum\bin\Debug\net6.0\Arrey_Randum.runtimeconfig.json
+C:\Users\izum7\OneDrive\Рабочий стол\GeekBrains\C#\C# Лекции\Lesson_2\Exemple\Arrey_Randum\bin\Debug\net6.0\Arrey_Randum.dll
+C:\Users\izum7\OneDrive\Рабочий стол\GeekBrains\C#\C# Лекции\Lesson_2\Exemple\Arrey_Randum\bin\Debug\net6.0\Arrey_Randum.pdb
+C:\Users\izum7\OneDrive\Рабочий стол\GeekBrains\C#\C# Лекции\Lesson_2\Exemple\Arrey_Randum\obj\Debug\net6.0\Arrey_Randum.dll
+C:\Users\izum7\OneDrive\Рабочий стол\GeekBrains\C#\C# Лекции\Lesson_2\Exemple\Arrey_Randum\obj\Debug\net6.0\refint\Arrey_Randum.dll
+C:\Users\izum7\OneDrive\Рабочий стол\GeekBrains\C#\C# Лекции\Lesson_2\Exemple\Arrey_Randum\obj\Debug\net6.0\Arrey_Randum.pdb
+C:\Users\izum7\OneDrive\Рабочий стол\GeekBrains\C#\C# Лекции\Lesson_2\Exemple\Arrey_Randum\obj\Debug\net6.0\Arrey_Randum.genruntimeconfig.cache
+C:\Users\izum7\OneDrive\Рабочий стол\GeekBrains\C#\C# Лекции\Lesson_2\Exemple\Arrey_Randum\obj\Debug\net6.0\ref\Arrey_Randum.dll
